@@ -1,3 +1,8 @@
+# Towards Better Document-level Relation Extraction via Iterative Inference
+Source code for EMNLP 2021 paper: Towards Better Document-level Relation Extraction via Iterative Inference
+
+Will be available soon!
+
 ## Requirements
 * Python (tested on 3.9.7)
 * CUDA (tested on 11.4)
