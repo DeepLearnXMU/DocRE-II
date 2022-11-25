@@ -1,5 +1,5 @@
 # Towards Better Document-level Relation Extraction via Iterative Inference
-Source code for EMNLP 2021 paper: Towards Better Document-level Relation Extraction via Iterative Inference
+Source code for EMNLP 2022 paper: Towards Better Document-level Relation Extraction via Iterative Inference
 
 Will be available soon!
 
