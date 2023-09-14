@@ -1,8 +1,3 @@
-# Towards Better Document-level Relation Extraction via Iterative Inference
-Source code for EMNLP 2022 paper: Towards Better Document-level Relation Extraction via Iterative Inference
-
-Will be available soon!
-
 ## Requirements
 * Python (tested on 3.9.7)
 * CUDA (tested on 11.4)
@@ -62,7 +57,7 @@ python3 -u train.py \
   --encoder_lr 5e-5 \
   --max_grad_norm 1.0 \
   --warmup_ratio 0.06 \
-  --num_train_epochs 52 \
+  --num_train_epochs 102 \
   --seed 66 \
   --num_class 97 \
   | tee logs/logs.train.log 2>&1
@@ -98,7 +93,7 @@ python3 -u train.py \
   --encoder_lr 1e-5 \
   --max_grad_norm 1.0 \
   --warmup_ratio 0.06 \
-  --num_train_epochs 20 \
+  --num_train_epochs 52 \
   --seed 66 \
   --num_class 97 \
   | tee logs/logs.train.log 2>&1
